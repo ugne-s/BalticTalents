@@ -19,10 +19,11 @@
    12. # *git push*
    13. # Įeikit į github. Padarkite PULL request. Ir aš patvirtinsiu pakeitimus.
 
-
+<br>
+<br>
   
 
-# *INFORMACIJA*
+# *Kontaktai*
 
 
 Kneitukas [Github](https://github.com/Kneitukas)
