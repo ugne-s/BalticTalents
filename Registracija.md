@@ -1,7 +1,7 @@
 
 # *GitHub praktika*
 <br>
-<br>
+
    1. # Parsisiūskite git-bash.
    2. # Per terminalą pakeiskite direktoriją kur jums patogiau dirbti.  Jei norite paziūrėti kur esate, naudokite komandą  *pwd* . Norėdami pakeisti direktoriją naudokite *cd*.
    3. # Nusikopijuokite linką *Clone or download* - žalias button.
